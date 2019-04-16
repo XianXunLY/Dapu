@@ -22,8 +22,6 @@
     * 项目分配：
     * APP演示地址：http://47.102.102.242:9710 
     * 后台管理系统演示地址：http://47.102.102.242:9714
-    * git地址：git@github.com:gzh51811/React-Project.git
-    		  https://github.com/gzh51811/React-Project.git
     * 演示账号：用户名：123
                密码：123
 
